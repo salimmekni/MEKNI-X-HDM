@@ -2,9 +2,7 @@
 
 ## **HDM Todo List Application**
 
-### **Introduction**
-Bonjour,  
-Voici mon travail sur l'application de gestion de tâches "HDM Todo List". Ce projet m'a permis de combiner React pour le frontend, NestJS pour le backend, et MySQL pour la base de données. Ce document explique mes choix techniques, les décisions prises et les défis rencontrés lors du développement.
+
 
 ---
 
