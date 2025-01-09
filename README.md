@@ -52,6 +52,8 @@ Des erreurs sont apparues à cause de mauvaises configurations des URLs API.
 #### **4. Validation des données**
 Le backend rejetait certaines requêtes en raison d'un manque de validation.
 **Solution** : Ajout de validations dans les DTOs (Data Transfer Objects) et contrôle côté backend.
+#### **3. Problèmes d'intégration Prettier
+Prettier a généré des erreurs de formatage dues à des configurations non adaptées à certaines parties du code. Solution : J'ai corrigé la configuration d'ESLint et Prettier pour mieux aligner les règles sur la structure du projet, et réorganisé certaines lignes de code pour éviter des erreurs de style.
 
 ---
 
